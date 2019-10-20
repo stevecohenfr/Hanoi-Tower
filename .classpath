@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/SteveEventBus-0.9.6.jar"/>
+	<classpathentry kind="lib" path="libs/Parameter-finder.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Tours%20de%20Hanoi/libs/Parameter-finder-doc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
